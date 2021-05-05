@@ -4,24 +4,13 @@
 //
 //  Created by Gaeng on 2021/02/02.
 //
-import Foundation
+let arr = readLine()!.split(separator: " ").map { Int($0)! }
+let a = arr[0], b = arr[1], v = arr[2]
+let d = (v - b) / (a - b)
 
-let str = readLine()!.uppercased().map { String($0) }
-var dic: [String:Int] = [:]
-
-for i in str {
-    if dic[i] == nil {
-        dic[i] = 1
-    } else {
-        dic[i]! += 1
-    }
-}
-
-let max = dic.values.max()
-let res = dic.filter { $0.value == max }
-if res.count != 1 {
-    print("?")
+if (v - b) % (a - b) != 0 {
+    print(d + 1)
 }
 else {
-    print(res.first!.key)
+    print(d)
 }

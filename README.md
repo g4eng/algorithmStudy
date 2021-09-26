@@ -4,8 +4,6 @@ acmicpc, programmers, swea etc...
 
 ## Swift Algorithm (acmicpc, programmers, etc...)
 
-## acmicpc (python)
-
 - 1000 : A+B
 
 - 1001 : A-B

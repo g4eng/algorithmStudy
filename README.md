@@ -4,8 +4,6 @@ acmicpc, programmers, swea etc...
 
 ## Swift Algorithm (acmicpc, programmers, etc...)
 
-## acmicpc (python)
-
 - 1000 : A+B
 
 - 1001 : A-B
@@ -127,22 +125,6 @@ acmicpc, programmers, swea etc...
 - 11720 : 숫자의 합
 
 - 11721 : 열 개씩 끊어 출력하기
-
-  
-
----
-
-## programmers
-
-
-
----
-
-## swea
-
-
-
----
 
 
 

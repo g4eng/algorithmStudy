@@ -1,9 +1,5 @@
 # Algorithm Study
 
-acmicpc, programmers, swea etc...
-
-## Swift Algorithm (acmicpc, programmers, etc...)
-
 - 1000 : A+B
 
 - 1001 : A-B

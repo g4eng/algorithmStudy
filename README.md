@@ -8,3 +8,7 @@
 
 ## python_algo
 - python으로 알고리즘...
+
+# ABC 
+따라해
+https://github.com/AlgorithmBreakClub/EveryWeekAlgorithm
